@@ -155,4 +155,5 @@ After deployment, you can test the API by visiting:
 https://<your-vercel-app>.vercel.app/api/hello?visitor_name=Mark
 ```
 
-- By Dev Isaac.
+- By Emmanuel
+- HNG Backend, Stage Zero.
