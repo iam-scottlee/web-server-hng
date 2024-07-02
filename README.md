@@ -20,7 +20,7 @@ web-server/
 
 ## API Endpoint
 
-### [GET] /api/hello
+### [GET] /hello
 
 **Query Parameters:**
 
